@@ -7,8 +7,10 @@ Dataset Source : Kaggle
 
 - classification methods:
 
-k Nearest Neighbours\n
+k Nearest Neighbours
+
 Naive Bayes classifiers
+
 Descision tree classifiers
 
 - There are 4 Features for the classification:
