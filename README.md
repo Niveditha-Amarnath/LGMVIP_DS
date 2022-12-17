@@ -6,7 +6,8 @@ done by: Niveditha Amarnath
 Dataset Source : Kaggle
 
 - classification methods:
-k Nearest Neighbours
+
+k Nearest Neighbours\n
 Naive Bayes classifiers
 Descision tree classifiers
 
