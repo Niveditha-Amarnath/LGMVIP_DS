@@ -1,6 +1,6 @@
 # LGMVIP_DS
 Task 1 : Iris Flowers Classification ML Project
-## BY Niveditha Amarnath
+
 Dataset Source : Kaggle
 
 - classification methods:
