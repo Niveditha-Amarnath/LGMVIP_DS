@@ -5,21 +5,19 @@ Music recommender systems can suggest songs to users based on their listening pa
 Dataset Link: https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
 
 steps :
-- ## Import Libraries
+-  Import Libraries
 
-- # Import Data Set
+-  Import Data Set
 
-- # Load Data
+-  Load Data
 
-- # Analyse Data
+-  Analyse Data
 
-- # Data Processing
+-  Data Processing
 
-- # Creating csv file to store id and target columns
+-  Creating csv file to store id and target columns
 
-- # Conclusion:
-## The Accuracy of lgbm model is 78.53%
+-  Conclusion: The Accuracy of lgbm model is 78.53%
+   The Accuracy of Random model is 49.30%
 
-## The Accuracy of Random model is 49.30%
-
-## Hence we conclude that lgbm model is better than random model
+ Hence we conclude that lgbm model is better than random model
